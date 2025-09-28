@@ -1,6 +1,6 @@
 # 🏋️‍♀️ FitHub – Plataforma de Gimnasio
 
-Proyecto grupal desarrollado como **Proyecto Final del Bootcamp Henry** (Grupo 4).  
+Proyecto grupal desarrollado como **Proyecto Final del Bootcamp Henry**.  
 FitHub es una plataforma web para la gestión de un gimnasio:  
 permite ver clases, registrarse, suscribirse a **Premium**, reservar turnos y administrar usuarios.
 
